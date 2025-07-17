@@ -1,4 +1,4 @@
-# 🎗️ Breast Cancer Prediction
+# 🎗Lung Cancer Prediction
 
 This project classifies whether a tumor is benign or malignant using classical machine learning models.
 
@@ -18,7 +18,7 @@ Using the well-known **Breast Cancer Wisconsin dataset**, we applied classificat
 
 ---
 
-## 📊 Models Used
+##  Models Used
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
 - Support Vector Machine (SVM)
@@ -27,7 +27,7 @@ Using the well-known **Breast Cancer Wisconsin dataset**, we applied classificat
 
 ---
 
-## 🧪 Steps Followed
+## Steps Followed
 1. Loaded the Breast Cancer dataset from Scikit-learn
 2. Performed data exploration and visualization
 3. Normalized features for better model performance
@@ -38,24 +38,18 @@ Using the well-known **Breast Cancer Wisconsin dataset**, we applied classificat
 
 ---
 
-## 📈 Performance
-- Achieved accuracy > 95% using SVM and Random Forest
+## Performance
+- Achieved accuracy > 95% using SK-Nearest Neighbors (KNN)
 - Confusion matrix and classification report were used for evaluation
 
 ---
 
-## 📁 Dataset
-- Source: Built-in dataset from `sklearn.datasets.load_breast_cancer()`
+##  Dataset
+- Source: Built-in dataset from `[sklearn.datasets.load_breast_cancer()](https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer)`
 
 ---
 
-## 📌 Status
-✅ Completed  
-📦 Optional: Deployment with web UI using Streamlit or Flask
-
----
-
-## 👨‍💻 Author
+##  Author
 **Mohamed Hassan Ali Shaban**  
 [GitHub Profile](https://github.com/Muhammad72d)
 
